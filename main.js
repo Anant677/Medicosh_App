@@ -40,4 +40,7 @@ function hearingloss(){
 function heartdisease(){
     window.location = "heart.html";
 }
+function Problems(){
+    window.location = "Problems.html";
+}
 //https://anant677.github.io/Medi_App/
